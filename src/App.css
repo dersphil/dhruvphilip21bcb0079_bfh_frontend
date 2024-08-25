@@ -36,3 +36,91 @@
     transform: rotate(360deg);
   }
 }
+
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+textarea {
+  padding: 10px;
+  font-size: 16px;
+  margin: 10px 0;
+  width: 80%;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin: 10px;
+}
+
+.filters {
+  margin: 20px 0;
+}
+
+label {
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+input[type="checkbox"] {
+  margin-right: 5px;
+}
+
+pre {
+  background-color: #f4f4f4;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: left;
+  word-wrap: break-word;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
+
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+textarea {
+  padding: 10px;
+  font-size: 16px;
+  margin: 10px 0;
+  width: 80%;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin: 10px;
+}
+
+label {
+  font-size: 16px;
+  display: block;
+  margin: 20px 0;
+}
+
+select {
+  padding: 5px;
+  font-size: 16px;
+}
+
+pre {
+  background-color: #f4f4f4;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: left;
+  word-wrap: break-word;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
